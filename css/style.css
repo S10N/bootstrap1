@@ -21,3 +21,10 @@ body{
 .quotes-container{}
 
 .features-container{}
+
+/*jumbotron*/
+.jumbotron-header{
+  color: white;
+  font-weight: bold;
+  margin-bottom: 30px; 
+}
