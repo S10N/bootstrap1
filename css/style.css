@@ -21,6 +21,14 @@ body{
 .quotes-container{}
 
 .features-container{}
+/*block dividers*/
+.block-divider{
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #f05040;
+    
+}
 
 /*jumbotron*/
 
@@ -34,9 +42,15 @@ body{
   margin-bottom: 30px; 
 }
 
+.jumbotron .lead{
+    margin: 25px 0;
+    color: #a7a7a7;
+
+}
+
 .jumbotron small{
     font-size: 60%;
     font-style: italic;
     color: #d0d0d0;
-    
+
 }
