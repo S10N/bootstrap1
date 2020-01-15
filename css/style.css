@@ -58,11 +58,11 @@ body{
 
 .navealert-container{
     position: absolute;
-    top:0;
-    left:0;
-    padding-left:0;
-    padding-right:0;
-    z-index:1;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 1;
 }
 
 .navbar{
@@ -74,9 +74,19 @@ body{
 }
 
 .navbar .navbar-toggler{
-    border: 0;
 
+    border: 0;
 }
+
+.navbar-brand{
+
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a{
+    font-weight: bold;
+}
+
 /*jumbotron*/
 
 .jumbotron{
