@@ -70,9 +70,12 @@ body{
     border: 0;
     width:100%;
     background-color: rgba(0,0,0,0.25);
-
 }
 
+.navbar .navbar-toggler{
+    border: 0;
+    
+}
 /*jumbotron*/
 
 .jumbotron{
